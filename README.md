@@ -16,5 +16,4 @@ $ cd app/
 $ ./manage.py migrate
 
 $ ./manage.py runserver
-
 ```
